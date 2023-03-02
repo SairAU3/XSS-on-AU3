@@ -3,8 +3,13 @@ The scanner on AU3 allows you to identify web application vulnerabilities, such 
 
 ## Content
 * XSS-Finder
-*Features
-Dump and Write Information
-DOM Scanner for Syncs
-Payloads
-False positives
+* Features
+* Dump and Write Information
+* DOM Scanner for Syncs
+* Payloads
+* False positives
+
+## XSS-Finder
+![xss](https://user-images.githubusercontent.com/126814634/222519937-b23fd59a-4353-47ad-b90a-eafdc1019b18.jpg)
+
+
