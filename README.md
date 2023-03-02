@@ -48,8 +48,8 @@ Example:
 ![xss2](https://user-images.githubusercontent.com/126814634/222521273-9170938f-87e5-4d2c-82b9-206fc3e73581.jpg)
 
 ## Installation in Windows
-Download and install from the official website 
-(https://www.autoitscript.com/site/autoit/downloads/) 
+Download and install from the official website
+(https://www.autoitscript.com/site/autoit/downloads/)
 Right click on the file "XSS.au3" and click Run Script
 
 
